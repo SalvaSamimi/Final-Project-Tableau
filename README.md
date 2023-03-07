@@ -66,13 +66,17 @@ By selecting each bar from the 'Explain data' menu, we can observe outlier and e
 ![alt text](images/Outlier.png)
 
 #### 4- Forecasting
-Price forercasting shows that price will increase by 6.7% and 9.0% in Bronx and Staten Island respectively. In other areas price will have no significant change.   
+Price forercasting shows that price will increase by 6.7% and 9.0% in Bronx and Staten Island respectively. In other areas price will have no significant change.  
+
 ![alt text](images/Forecast.png)
 
-#### 5- Dashboard
-Because dashboards are provided to present dynamic reports, it's better to assess 
-[AirBnB_NYC_Dashboard.twbx](Tableau/AirBnB_NYC_Dashboard.twbx).
+#### 5- Price Box plot for Neighbourhood  
+This plot shows variety of price in each area and extreme values.
 
+![alt text](images/Price_Box_Plot_for_Neighbourhoods.png)
+
+#### 6- Dashboard
+Because dashboards are provided to present dynamic reports, it's better to assess [AirBnB_NYC_Dashboard.twbx](Tableau/AirBnB_NYC_Dashboard.twbx).
 
 ![alt text](images/AirBnB-New_York_City.png)
 
